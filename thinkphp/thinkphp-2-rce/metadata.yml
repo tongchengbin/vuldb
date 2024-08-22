@@ -1,0 +1,4 @@
+name: ThinkPHP 2.x 任意代码执行漏洞
+app: ThinkPHP
+image: vulhub/thinkphp:2.1
+description: "file:README.md"
