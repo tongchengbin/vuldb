@@ -1,0 +1,4 @@
+name: ThinkPHP5 5.0.23 Remote Code Execution Vulnerability
+app: ThinkPHP
+image: vulhub/thinkphp:5.0.23
+description: "file:README.md"
