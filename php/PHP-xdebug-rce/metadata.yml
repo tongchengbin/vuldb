@@ -1,0 +1,7 @@
+name: PHP-XDebug RCE
+app: PHP
+image: php-xdebug-rce
+build:
+    context: .
+    dockerfile: Dockerfile
+description: "# PHP-XDebug 代码执行"
